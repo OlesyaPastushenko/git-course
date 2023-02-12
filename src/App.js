@@ -5,7 +5,7 @@ function App() {
   console.log("new")
   return (
     <div className="App">
-      <h1>Hello from the outside</h1>
+      <h1>Hello from the inside</h1>
       <MobileMenu/>
     </div>
   );
